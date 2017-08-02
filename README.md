@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
 
-Up to date (2016-12-18), there are `447` Algorithms / `13` Database / `4` Shell / `4` Draft questions on [LeetCode Online Judge](https://leetcode.com/).
+There are **447** Algorithms / **13** Database / **4** Shell / **4** Draft questions on [LeetCode Online Judge](https://leetcode.com/) until 2016-12-18.
 The number of questions is increasing recently.
 Here is the classification of all `468` questions.
 For more questions and solutions, you can see my [LintCode](https://github.com/jarrekk/LintCode) repository.
